@@ -1,0 +1,22 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "React site made from following tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smith-ross/learn-react.git"
+  },
+  "author": "Ross Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smith-ross/learn-react/issues"
+  },
+  "homepage": "https://github.com/smith-ross/learn-react#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
